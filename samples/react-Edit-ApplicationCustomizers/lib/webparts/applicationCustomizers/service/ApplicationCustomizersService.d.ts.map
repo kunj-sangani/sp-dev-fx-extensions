@@ -1,1 +1,0 @@
-{"version":3,"file":"ApplicationCustomizersService.d.ts","sourceRoot":"","sources":["../../../../src/webparts/applicationCustomizers/service/ApplicationCustomizersService.ts"],"names":[],"mappings":"AACA,OAAO,cAAc,CAAC;AACtB,OAAO,6BAA6B,CAAC;AAKrC,MAAM,CAAC,OAAO,OAAO,6BAA6B;IAE9C;;OAEG;IACI,6BAA6B,mCAanC;IAED;;OAEG;IACI,oBAAoB,qBAe1B;IAED;;OAEG;IACI,2BAA2B,kFAQjC;CAEJ"}
