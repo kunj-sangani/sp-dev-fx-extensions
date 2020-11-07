@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
-    <CustomAction
-        Title="BackToTop"
-        Location="ClientSideExtension.ApplicationCustomizer"
-        ClientSideComponentId="c0e7ee97-a9a1-41d2-9c62-865976677a00"
-        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
-    </CustomAction>
-</Elements>
