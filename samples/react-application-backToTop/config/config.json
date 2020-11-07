@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "back-to-top-application-customizer": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/backToTop/BackToTopApplicationCustomizer.js",
+          "manifest": "./src/extensions/backToTop/BackToTopApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "BackToTopApplicationCustomizerStrings": "lib/extensions/backToTop/loc/{locale}.js"
+  }
+}
